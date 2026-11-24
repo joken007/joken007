@@ -6,6 +6,7 @@
 
 - **公开网页库**（免安装 Telegram 也能看）：https://joken007.github.io/quark-resource-library/
 - **原创指南**（夸克网盘怎么用 / 学习资料整理方法）：https://joken007.github.io/quark-resource-library/guide.html
+- **常见问题 12 问**（链接怎么用 / 失效怎么办 / 有哪些分类 / 不装 Telegram 能不能看）：https://joken007.github.io/quark-resource-library/faq.html
 - **鹿小满表情包专区**（PNG 原图下载）：https://joken007.github.io/quark-resource-library/emoji.html
 - **关于与全矩阵**：https://joken007.github.io/quark-resource-library/about.html
 - **Telegram 频道**：https://t.me/kuake0007 —— 每天 10+ 条带封面资源
